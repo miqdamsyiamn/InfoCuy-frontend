@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080";
+const API_URL = "https://info-cuy-backend.vercel.app";
 let map, markersLayer;
 let redIcon, blueIcon;
 
